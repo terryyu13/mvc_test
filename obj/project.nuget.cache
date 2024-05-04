@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wXvJNEcfR+LkdzWNZEY2fmx5lZym6D2O5lkF10H+oEwotZuMZVGdi/9VxbdO4rVFm6AhlWgIRBZxnhGRarR+Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\terry\\MyMvcApp\\MyMvcApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\terry\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\terry\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\terry\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
